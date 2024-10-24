@@ -1,6 +1,6 @@
 # A Suit of Desktop Assistant Apps
 
-The Red Room is meant to be a suit of apps that can simulate the Red Room from Black Widow (2021). While there are no real Widows to chemically subjugate here, the theme from General Draykov's Computer was the main inspiration to create a set apps that can be part of a desktop virtual companion. Please note that this is still a rule based system, and no generative AI has been used thus far... 
+The Red Room is meant to be a suit of apps that can simulate the Red Room from Black Widow (2021). While there are no real Widows to chemically subjugate here, the theme from General Draykov's Computer was the main inspiration to create a set of apps that can be part of a desktop virtual companion. Please note that this is still a rule based system, and no generative AI has been used thus far... 
 
 ## Date, Time, and News Headlines
 
